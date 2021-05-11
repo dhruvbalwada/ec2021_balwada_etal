@@ -1,5 +1,7 @@
 # ec2021_balwada_etal
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dhruvbalwada/ec2021_balwada_etal/HEAD?filepath=DB_01_Glider_Viz_Panel.ipynb)
+
 ## Interactive visualization tools for ocean glider data
 
 ### Dhruv Balwada, Scott Henderson, & Alison Gray
